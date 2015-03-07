@@ -2,8 +2,8 @@ source("loaddata.R")
 colnames (electric_data_2d)
 
 png(filename = "plot1.png", 
-    width = 500, 
-    height = 500, 
+    width = 480, 
+    height = 480, 
     units = "px", 
     bg = "transparent")
 
